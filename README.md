@@ -12,7 +12,7 @@ https://github.com/MGKrupkina/nado-sdelat-idealno.git
 
 html-страница сайта (<a href="https://github.com/MGKrupkina/nado-sdelat-idealno/blob/main/index.html" target="_blank">index.html</a>)
 
-стили (<a href="hhttps://github.com/MGKrupkina/nado-sdelat-idealno/blob/main/styles/style.css" target="_blank">styles.css</a>)
+стили (<a href="https://github.com/MGKrupkina/nado-sdelat-idealno/blob/main/styles/style.css" target="_blank">styles.css</a>)
 
 шрифты (<a href="https://github.com/MGKrupkina/nado-sdelat-idealno/tree/main/fonts" target="_blank">fonts</a>)
 
