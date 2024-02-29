@@ -20,5 +20,5 @@ html-страница сайта (<a href="https://github.com/MGKrupkina/nado-sd
 
 автотесты (<a href="https://github.com/MGKrupkina/nado-sdelat-idealno/blob/main/.github/workflows/tests.yml" target="_blank">tests.yml</a>)
 
-![Надо сделать идеально всплывашка](https://github.com/MGKrupkina/nado-sdelat-idealno/assets/145542673/8fd56699-f673-4496-ab44-bac5b714151e)
 ![Надо сделать идеально](https://github.com/MGKrupkina/nado-sdelat-idealno/assets/145542673/74b1d550-750a-4b4c-bfb6-a8ad1eaa39f7)
+![Надо сделать идеально всплывашка](https://github.com/MGKrupkina/nado-sdelat-idealno/assets/145542673/8fd56699-f673-4496-ab44-bac5b714151e)
