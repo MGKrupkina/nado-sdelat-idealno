@@ -22,5 +22,5 @@ html-страница сайта (<a href="https://github.com/NazarovaMary/nado-
 
 <h3><a href="https://www.figma.com/file/8oKbCdYbLgfDehpQNJEoMS/%233-Надо-сделать-идеально?type=design&node-id=0-1&mode=design" target="_blank">Макет (перейти по ссылке)</a></h3>
 
-![Надо сделать идеально](https://github.com/MGKrupkina/nado-sdelat-idealno/assets/145542673/74b1d550-750a-4b4c-bfb6-a8ad1eaa39f7)
-![Надо сделать идеально всплывашка](https://github.com/MGKrupkina/nado-sdelat-idealno/assets/145542673/8fd56699-f673-4496-ab44-bac5b714151e)
+![Надо сделать идеально](https://github.com/NazarovaMary/nado-sdelat-idealno/assets/145542673/74b1d550-750a-4b4c-bfb6-a8ad1eaa39f7)
+![Надо сделать идеально всплывашка](https://github.com/NazarovaMary/nado-sdelat-idealno/assets/145542673/8fd56699-f673-4496-ab44-bac5b714151e)
